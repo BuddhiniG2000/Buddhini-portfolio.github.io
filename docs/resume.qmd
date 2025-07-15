@@ -1,0 +1,72 @@
+---
+title: "Resume"
+format: html
+---
+
+# 📄 Resume
+
+## 🧠 Skills
+
+-   **Programming Languages:** R, Python (basic)
+-   **Mathematical & Statistical Tools:** Minitab, Eviews
+-   **Statistical Methods:** Regression, Time Series Analysis, Hypothesis Testing
+-   **Visualization Tools:** R (`ggplot2`)
+-   **Soft Skills:** Presentation, Academic Writing, Critical Thinking, Teamwork, Leadership
+
+------------------------------------------------------------------------
+
+## 💼 Experience
+
+### 📌 Event Coordinator
+
+**Statistics Society – University of Sri Jayewardenepura**\
+🗓️ 2024 – Present\
+- Organized and led events, workshops, and competitions\
+- Collaborated with faculty and external speakers
+
+
+
+------------------------------------------------------------------------
+
+### 📌 ISC 2024 Volunteer
+
+**Institute of Applied Statistics Sri Lanka (IASSL)**\
+🗓️ December 2024\
+- Supported logistics, registration, and technical sessions
+
+
+
+------------------------------------------------------------------------
+
+### 📌 Junior Treasurer
+
+**Statistics Society – USJ**\
+🗓️ 2023 – 2024\
+- Managed budgeting, expenses, and financial reports
+
+
+
+------------------------------------------------------------------------
+
+## 🏆 Achievements
+
+-   🥇 **Winning Team Leader – ISC 2024 Poster Competition**\
+    Poster: *"What Makes Europeans’ Smiles Brighter?"*
+
+
+
+------------------------------------------------------------------------
+
+## 📜 Certifications
+
+-   **Introduction to Python** – DataCamp\
+-   **Introduction to R** – DataCamp\
+-   **FCE** – Cambridge English\
+-   **PET** – Cambridge English
+
+------------------------------------------------------------------------
+
+## 🔎 Additional Info
+
+-   **Languages:** Sinhala (Native), English (C1), Tamil (Basic)\
+-   **Interests:** Data storytelling, scientific reading, music, volunteering

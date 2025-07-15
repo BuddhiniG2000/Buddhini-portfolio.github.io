@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Buddhini,s Portfolio"
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+      - text: About Me
+        file: about.qmd
+      - text: Projects
+        file: projects.qmd
+      - text: Resume
+        file: Resume.qmd
+    right:
+      - icon: github
+        href: https://github.com/BuddhiniG2000
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/buddhini-sumanaweera
+        aria-label: LinkedIn
+
+
+
+
+

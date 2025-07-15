@@ -1,0 +1,13 @@
+/* css styles */
+body {
+  background-color: #f4f8fb;
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  color: #2a4f6e;
+}
+
+img {
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}

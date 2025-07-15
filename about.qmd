@@ -1,0 +1,27 @@
+---
+title: "About"
+---
+
+# About Me
+
+Hi! I’m Buddhini Sumanaweera, a final-year undergraduate specializing in Statistics at the University of Sri Jayewardenepura. I’m passionate about data science, research, and turning numbers into insights that matter.
+
+## 🎓 Academic Background
+
+-   B.Sc. in Statistics (Hons)
+-   Experienced in courses like Advanced Distribution Theory, Time Series Analysis, Regression Modeling, and Statistical Computing, R programming.
+
+## 💡 Skills & Tools
+
+-   R, RStudio, Python (basic), Excel
+-   Eviews, Quarto, Minitab
+-   Data Visualization: `ggplot2`, `plotly`
+-   Report Writing: LaTeX, Markdown
+
+## 📁 Research
+
+-   Forecasting Electricity Generation and Consumption in Sri Lanka Using Traditional Time Series and Machine Learning Methods\
+
+> See more on the [Projects](projects.qmd) page.
+
+## 

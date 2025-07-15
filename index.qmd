@@ -1,0 +1,29 @@
+---
+title: "my portfolio"
+html:
+    theme: cosmo
+    css: styles.css
+---
+
+# Welcome
+
+<table>
+<tr>
+<td style="width: 25%; vertical-align: top;">
+  <img src="images/my photo.jpg" width="180" style="border-radius: 50%;">
+</td>
+<td style="padding-left: 20px; vertical-align: top;">
+
+Hi! I’m Buddhini, a final-year Statistics undergraduate with a passion for data, visualization, and research. This is my portfolio where I share my academic work, projects, and learning experiences.
+
+## 🚀 Explore My Portfolio
+
+- 📚 [About Me](about.qmd): Learn about my academic journey
+- 💼 [Projects](projects.qmd): View my data science and statistics projects
+- 📄 [Resume](resume.qmd): See my educational background and experience
+
+</td>
+</tr>
+</table>
+
+
